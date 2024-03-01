@@ -1,13 +1,61 @@
-# `Web-Server`
-![](https://www.hostinger.in/tutorials/wp-content/uploads/sites/2/2018/06/How-Server-Work.png)
+# 0x11. Python - Network #1
+
+This project is part of the curriculum of the Holberton School. It is designed to help students understand how to fetch internet resources using Python packages like urllib and requests, decode urllib body response, make HTTP GET and POST/PUT/etc. requests, fetch JSON resources, and manipulate data from an external service.
+
+## Project Details
+
+* **By:** youssef elharouch
+* **Weight:** 1
+* **Starts:** Mar 1, 2024 4:00 AM
+* **Ends:** Mar 2, 2024 4:00 AM
+* **Checker release:** Mar 1, 2024 10:00 AM
+* **Auto review:** At the deadline
+
+## Learning Objectives
+
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+* How to fetch internet resources with the Python package urllib
+* How to decode urllib body response
+* How to use the Python package requests
+* How to make HTTP GET request
+* How to make HTTP POST/PUT/etc. request
+* How to fetch JSON resources
+* How to manipulate data from an external service
+
+## Requirements
+
+* Allowed editors: vi, vim, emacs
+* All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
+* All your files should end with a new line
+* The first line of all your files should be exactly `#!/usr/bin/python3`
+* A README.md file at the root of the repo, containing a description of the repository
+* Your code should use the pycodestyle (version 2.8.*)
+* All your files must be executable
+* The length of your files will be tested using wc
+* All your modules should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
+* You must use get to access to dictionary value by key (it won’t throw an exception if the key doesn’t exist in the dictionary)
+* A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+* Your code should not be executed when imported (by using if `__name__ == "__main__":`)
+
+## Plagiarism
+
+You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives. You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work. You are not allowed to publish any content of this project. Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+## Resources
+
+* [HOWTO Fetch Internet Resources Using urllib Package](#)
+* [Quickstart with Requests package](#)
+* [Requests package](#)
 
 
-# `General`
-* What is the main role of a web server
-* Why web servers usually have a parent process and child processes
-* What are the main HTTP requests
-## `DNS`
-* What DNS stands for
-* What is DNS main role
-## `DNS Record Types`
-**A**        **CNAME**       **TXT**       **MX**
+
+
+
+
+
+
+
+
+
+
