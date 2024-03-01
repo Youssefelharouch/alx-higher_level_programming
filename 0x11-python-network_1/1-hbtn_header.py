@@ -10,4 +10,4 @@ import sys
 if __name__ == "__main__":
     with urllib.request.urlopen(sys.argv[1]) as response:
         html = response.info()
-sh: 1: q: not found
+        print(html.get('X-Request-Id'))
